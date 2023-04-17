@@ -1,4 +1,4 @@
-Intruscions: ASWD: Move   SPACEBAR: Interact   E: Inventory
+Intruscions: ASWD: Move   SPACEBAR: Interact   E: Inventory   L: Go Back To Stacion
 Story: You find yourself in another world. Not like the others. You search around for supplies as you start to lose oxygen.
 You find a space suit and a Energy Pistol. You take the ruined space ship you found lying, decayed in the ground to the space station you saw in space.
 While aboard the station and waiting for the ship to finish repairing, you see black portals, apparently to the other planets in the systym.
